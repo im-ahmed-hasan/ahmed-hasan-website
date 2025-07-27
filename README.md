@@ -15,7 +15,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 
 ## Contact:
 - LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
-- Email: (Your Email Here)
+- Email: [ahmedfhasann@gmail.com](mailto:ahmedfhasann@gmail.com)
 
 ## How to Use:
 This repository contains the source files for my personal website, including:
