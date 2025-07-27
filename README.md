@@ -14,7 +14,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Maven
 
 ## Contact:
-- LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/ahmed-hasan)
+- LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
 - Email: (Your Email Here)
 
 ## How to Use:
