@@ -1,0 +1,86 @@
+/* Basic reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  text-align: center;
+  padding: 50px 0;
+  background-color: #333;
+  color: #fff;
+}
+
+header h1 {
+  font-size: 3em;
+}
+
+header p {
+  font-size: 1.2em;
+  margin-top: 10px;
+}
+
+.profile-img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-top: 20px;
+}
+
+section {
+  padding: 40px 0;
+}
+
+section#about {
+  background-color: #fff;
+}
+
+section#work {
+  background-color: #eaeaea;
+}
+
+section#contact {
+  background-color: #fff;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+ul li {
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+ul li strong {
+  font-weight: bold;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
