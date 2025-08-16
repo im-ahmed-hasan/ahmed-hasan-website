@@ -16,11 +16,3 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 ## Contact:
 - LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
 - Email: [ahmedfhasann@gmail.com](mailto:ahmedfhasann@gmail.com)
-
-## How to Use:
-This repository contains the source files for my personal website, including:
-- **index.html**: The main HTML page for the website.
-- **styles.css**: The styling for the website.
-- **profile.jpg**: My profile image.
-
-Feel free to explore and reach out to me!
