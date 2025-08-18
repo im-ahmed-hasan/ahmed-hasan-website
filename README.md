@@ -10,7 +10,6 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Cucumber
 - Jenkins
 - SQL (Oracle, SQL Server)
-- JMeter
 - Maven
 
 ## Contact:
