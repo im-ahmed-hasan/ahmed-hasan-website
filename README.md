@@ -9,6 +9,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Selenium WebDriver
 - Cucumber
 - Jenkins
+- Git/Github
 - SQL (Oracle, SQL Server)
 - Maven
 
