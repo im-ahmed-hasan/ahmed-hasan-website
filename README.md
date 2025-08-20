@@ -12,6 +12,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Git/Github
 - SQL (Oracle, SQL Server)
 - Maven
+- Karate
 
 ## Contact:
 - LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
