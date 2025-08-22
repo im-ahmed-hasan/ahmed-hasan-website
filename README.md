@@ -8,7 +8,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 ## Technologies Used:
 - Selenium WebDriver
 - Cucumber
-- Jenkins
+- Jenkins/Github Actions
 - Git/Github
 - SQL (Oracle, SQL Server)
 - Maven
