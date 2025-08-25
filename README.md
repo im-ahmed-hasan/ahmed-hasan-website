@@ -12,6 +12,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Git/Github
 - SQL (Oracle, SQL Server)
 - Maven
+- Rest Assured
 - Karate
 
 ## Contact:
