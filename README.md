@@ -14,6 +14,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Maven
 - Rest Assured
 - Karate
+- API
 
 ## Contact:
 - LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
