@@ -6,6 +6,7 @@ Welcome to my personal website. This site is a showcase of my work as a **Softwa
 A seasoned QA professional with 10+ years of experience in testing web, mobile, and client-server applications. I specialize in automation, Selenium WebDriver, and testing methodologies like BDD.
 
 ## Technologies Used:
+- Java
 - Selenium WebDriver
 - Cucumber
 - Jenkins/Github Actions
@@ -15,6 +16,7 @@ A seasoned QA professional with 10+ years of experience in testing web, mobile, 
 - Rest Assured
 - Karate
 - API
+- 
 
 ## Contact:
 - LinkedIn: [ahmed-hasan](https://www.linkedin.com/in/-ahmed-hasan)
